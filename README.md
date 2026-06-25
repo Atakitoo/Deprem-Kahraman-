@@ -11,7 +11,9 @@ Oyunun temel mekaniklerini, eşya toplama sistemini ve sahne geçişlerini içer
 
 https://youtu.be/OtyQtYc5uxM
 
----
+## 🎮 Yükleme Linki 
+
+https://drive.google.com/file/d/1Mll_09r7N8DV3IsHWZzaA9BH0fKhzP6s/view?usp=drive_link
 
 ## ✨ Öne Çıkan Özellikler
 
@@ -26,7 +28,7 @@ https://youtu.be/OtyQtYc5uxM
 
 | 🏠 Ev Keşfi ve Eşya Toplama | 📱 Akıllı Telefon Arayüzü |
 | :---: | :---: |
-| ![Ev Keşfi Screen](<img width="1427" height="593" alt="Ev" src="https://github.com/user-attachments/assets/c0beb70f-a4d0-40ee-b797-2bc0bfda4533" />) | ![Telefon Screen](<img width="1428" height="595" alt="TelefonEsya" src="https://github.com/user-attachments/assets/e6885c24-8785-4626-9de9-d149070bfed9" />) |
+| ![Ev Keşfi Screen]([<img width="1427" height="593" alt="Ev" src="https://github.com/user-attachments/assets/c0beb70f-a4d0-40ee-b797-2bc0bfda4533" />]) | ![Telefon Screen]([<img width="1428" height="595" alt="TelefonEsya" src="https://github.com/user-attachments/assets/e6885c24-8785-4626-9de9-d149070bfed9" />]) |
 
 | 🚨 Afet Sonrası Güvenli Bölge | 
 | :---: | :---: |
